@@ -1,0 +1,6 @@
+Index,Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Phone 2,Email,Subscription Date,Website
+1,IN001,Aarav,Sharma,Infosys,Bengaluru,India,-9876543119,-8765432018,aarav@infosys.com,12-05-2023,https://www.infosys.com
+2,IN002,Priya,Patel,TCS,Mumbai,India,-9123456698,,priya@tcs.com,07-11-2022,https://www.tcs.com
+3,IN003,Rahul,Verma,Wipro,Hyderabad,India,-9988776564,-9666554342,rahul@wipro.com,20-02-2023,https://www.wipro.com
+4,IN004,Sneha,Reddy,HCL,Chennai,India,-9090908999,,sneha@hcl.com,18-08-2022,https://www.hcltech.com
+5,IN005,Vikram,Mehta,Tech Mahindra,Pune,India,-8877665453,-7766554342,vikram@techm.com,03-07-2023,https://www.techmahindra.com
